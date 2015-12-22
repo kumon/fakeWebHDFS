@@ -1,0 +1,14 @@
+{
+    "dummyhdfs": {
+        "dir": "./hdfs"
+    },
+    "webhdfs": {
+        "path": "/webhdfs/v1"
+    },
+    "namenode": {
+        "port": 50070
+    },
+    "datanode": {
+        "port": 50075
+    }
+}
